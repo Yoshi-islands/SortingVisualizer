@@ -1,0 +1,7 @@
+/*MAIN APP COMPONENT WILL WHICH HAVE THE DOM ELEMENTS
+WITHIN APP.CSS */
+
+.Button:hover {
+  opacity: 0.5;
+  cursor: pointer;
+}
