@@ -4,7 +4,7 @@ version 1.1.0
 
 This is a Sorting visualizer is intended to provide the user with an interface where they can visualize various sorts. They are able to choose the size of the array they want to deal with which also correlates to the speed of the sort and the speed of the colours which are displayed to the screen. Can be accessed below : 
 
-[Sorting Visualizer](**https://sorting-visualizer1051.herokuapp.com**)
+[Sorting Visualizer](https://sorting-visualizer1051.herokuapp.com)
 
 # Implemented Technologies 
 
@@ -15,10 +15,10 @@ This full-stack application that is written in `React.js` ( a JavaScritp framewo
 Inspiration of the sorting visualizer project is from : 
 [Clement's Sorting visualizer](https://clementmihailescu.github.io/Sorting-Visualizer/)
 
-[Bubble Sort](https://www.geeksforgeeks.org/bubble-sort/) 
-[Heap Sort](https://www.geeksforgeeks.org/heap-sort/)
-[Quick Sort](https://www.geeksforgeeks.org/quick-sort/)
-[Merge Sort](https://www.geeksforgeeks.org/merge-sort/)
+[Bubble Sort](https://www.geeksforgeeks.org/bubble-sort/)\
+[Heap Sort](https://www.geeksforgeeks.org/heap-sort/)\
+[Quick Sort](https://www.geeksforgeeks.org/quick-sort/)\
+[Merge Sort](https://www.geeksforgeeks.org/merge-sort/)\
 
 Download Node.js: 
 [Node.js](https://nodejs.org/en/)
@@ -44,7 +44,7 @@ to more than 45, the sizes of the bars are not displayed
 #### Full model view 
 Below is a full model view of the UI provided with all the features displayed. 
 
-![Full display](Demo/fullimage1/png)
+![Full display](Demo/fullimage1.png)
 
 #### The Sorting View
 When a sort is selected, the colour of all the buttons change and they cannot be selected during the sort. 
