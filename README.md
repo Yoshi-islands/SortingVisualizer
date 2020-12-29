@@ -18,7 +18,7 @@ Inspiration of the sorting visualizer project is from :
 [Bubble Sort](https://www.geeksforgeeks.org/bubble-sort/)\
 [Heap Sort](https://www.geeksforgeeks.org/heap-sort/)\
 [Quick Sort](https://www.geeksforgeeks.org/quick-sort/)\
-[Merge Sort](https://www.geeksforgeeks.org/merge-sort/)\
+[Merge Sort](https://www.geeksforgeeks.org/merge-sort/)
 
 Download Node.js: 
 [Node.js](https://nodejs.org/en/)
