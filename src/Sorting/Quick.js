@@ -26,7 +26,7 @@ let swap = async (arr, i, j) => {
     arr[i] = arr[j];
     arr[j] = tmp;
 
-    await sleep(timerScale(arr.length, 200));
+    //await sleep(timerScale(arr.length, 200));
 };
 
 
