@@ -4,16 +4,15 @@ version 1.1.0
 
 This is a Sorting visualizer is intended to provide the user with an interface where they can visualize various sorts. They are able to choose the size of the array they want to deal with which also correlates to the speed of the sort and the speed of the colours which are displayed to the screen. Can be accessed below : 
 
-[Sorting Visualizer](https://sorting-visualizer1051.herokuapp.com)
+[Sorting Visualizer](https://yoshi-islands.github.io/SortingVisualizer/)
 
 # Implemented Technologies 
 
-This full-stack application that is written in `React.js` ( a JavaScritp framework ) including ES6 syntax, with minimal ES5 usage with depends on the `Node.js` middleware ( greater than node version 9 atleast ). 
+This full-stack application that is written in `React.js` ( a JavaScript framework ) including ES6 syntax, with minimal ES5 usage and depends on the `Node.js` middleware ( greater than node version 9 atleast ). 
+
+It was deployed using GitHub pages, with `yarn version 1.22.10` scripts indicated within the package.json file. 
 
 # Resources 
-
-Inspiration of the sorting visualizer project is from : 
-[Clement's Sorting visualizer](https://clementmihailescu.github.io/Sorting-Visualizer/)
 
 [Bubble Sort](https://www.geeksforgeeks.org/bubble-sort/)\
 [Heap Sort](https://www.geeksforgeeks.org/heap-sort/)\
